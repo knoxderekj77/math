@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mathDiv {
+	align-content: center;
+	width: 100%;
+	right: auto;
+	left: auto;
+	text-align: center;
+}
+#mathDiv p {
+	font-size: 3em
+	align-content: center
+	color: #E01417;
+	color: #000000;
+	font-size: 2em;
+	line-height: normal;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	text-align: center;
+	width: 87%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 23px;
+}
+h2 {
+	color: #0355A3;
+	text-indent: 1em;
+	text-decoration: underline;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-shadow: 1.6px 1.6px 3px #D7D5D5;
+}
+#mathDiv p.math2  {
+	font-size: 3em
+	align-content: center
+	color: #E01417;
+	color: #000000;
+	font-size: 1.25em;
+	text-align: center;
+	line-height: normal;
+}
+p {
+	text-align: left;
+	text-indent: 1.5em;
+}
